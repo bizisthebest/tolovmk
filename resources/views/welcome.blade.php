@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    tolovmk
+                    Tolov Mk
                 </div>
 
                 <div class="links">
